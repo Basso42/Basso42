@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luciusgrandgousier
-- 👀 I’m interested in econ
+- 👀 I’m interested in economics and datascience
 - 🌱 I’m currently learning maths
 - 💞️ I’m looking to collaborate on preparing future
 - 📫 How to reach me? 
