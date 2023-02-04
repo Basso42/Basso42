@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luciusgrandgousier
+- 👋 Hi, I’m @Basso42
 - 👀 I’m interested in economics and datascience
 - 🌱 I’m currently learning maths
 - 💞️ I’m looking to collaborate on preparing future
