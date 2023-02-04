@@ -1,7 +1,5 @@
-***@Basso42***
-- 👀 I’m interested in economics and datascience
-- 🌱 I’m currently learning applied maths **@ENSAE Paris**
-- **INRIA Chile intern**
+Passionated by the links between economics **@ENS Paris-Saclay**, data science and applied mathematics **@ENSAE Paris**
+
 
 <!---
 luciusgrandgousier/luciusgrandgousier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
