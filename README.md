@@ -1,4 +1,4 @@
-Passionated by the links between economics, data science and applied mathematics 
+Passionate by the links between economics, data science and applied mathematics 
 
 *Alma Matres* : **@ENS Paris-Saclay** and **@ENSAE Paris**
 <!---
